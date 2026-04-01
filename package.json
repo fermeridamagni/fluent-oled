@@ -1,14 +1,38 @@
 {
   "name": "fluent-oled",
   "displayName": "Fluent OLED",
-  "description": "Experience the ultimate deep-black interface designed for the modern developer.",
+  "description": "A pure black, minimalist theme designed for OLED displays. Zero distractions, GitHub syntax highlighting.",
   "version": "0.0.1",
+  "publisher": "fermeridamagni",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fermeridamagni/fluent-oled"
+  },
+  "homepage": "https://github.com/fermeridamagni/fluent-oled",
+  "bugs": {
+    "url": "https://github.com/fermeridamagni/fluent-oled/issues"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "oled",
+    "black",
+    "minimalist",
+    "github",
+    "amoled"
+  ],
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
