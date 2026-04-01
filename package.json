@@ -1,0 +1,29 @@
+{
+  "name": "fluent-oled",
+  "displayName": "Fluent OLED",
+  "description": "Experience the ultimate deep-black interface designed for the modern developer.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fluent OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fluent OLED-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.9",
+    "ultracite": "7.4.2"
+  },
+  "scripts": {
+    "check": "ultracite check",
+    "fix": "ultracite fix"
+  }
+}
