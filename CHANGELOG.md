@@ -4,6 +4,12 @@ All notable changes to the Fluent OLED extension will be documented in this file
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.0.1] - 2026-04-02
+
+### Fixed
+
+- Improved icon visibility — VS Code logo and product icons are now clearly visible against the pure black background
+
 ## [1.0.0] - 2026-04-02
 
 ### Changed
