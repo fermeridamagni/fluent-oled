@@ -2,7 +2,7 @@
   "name": "fluent-oled",
   "displayName": "Fluent OLED",
   "description": "A pure black, minimalist theme designed for OLED displays. Zero distractions, GitHub syntax highlighting.",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "fermeridamagni",
   "license": "MIT",
   "icon": "assets/icon.png",
