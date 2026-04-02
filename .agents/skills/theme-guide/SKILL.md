@@ -160,9 +160,9 @@ keyword.control                  → matches only control flow (if, for, while)
 keyword.control.flow.ts          → matches only TypeScript flow keywords
 ```
 
-### JSON nesting colors
+### JSON keys
 
-The theme has special handling for JSON files (levels 0-8) where each nesting depth gets a different color, cycling through: `#79c0ff` → `#7ee787` → `#ffa657` → `#f85149` → `#d2a8ff` → repeat. These are the entries named "JSON Key - Level N".
+All JSON keys use `#79c0ff` (constant blue) regardless of nesting level for a clean, consistent appearance.
 
 ## Section 3: `semanticTokenColors` — Language-Aware Overrides
 
