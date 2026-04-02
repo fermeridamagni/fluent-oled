@@ -4,6 +4,12 @@ All notable changes to the Fluent OLED extension will be documented in this file
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.0.0] - 2026-04-02
+
+### Changed
+
+- Simplified JSON key highlighting — all keys now use a consistent blue color (`#79c0ff`) regardless of nesting depth
+
 ## [0.0.2] - 2026-03-31
 
 ### Fixed
