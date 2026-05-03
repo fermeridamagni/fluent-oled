@@ -43,6 +43,8 @@ Syntax highlighting follows the **GitHub Dark** palette — familiar, readable, 
 
 - 🔌 **Universal Compatibility** — works on VS Code, Cursor, Windsurf, Antigravity, and any VS Code-based editor
 
+- 🧭 **Zed Extension (in progress)** — aiming to provide a dedicated Zed extension: https://github.com/fermeridamagni/fluent-oled-for-zed
+
 ---
 
 ## Install
